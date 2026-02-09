@@ -1,12 +1,10 @@
 
 
-[![zhouyan0910](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/zhouyan0910)
-
 She is currently an Assistant Professor and Master's Supervisor of Frontier Interdisciplinary Domain at Beijing Institute of Technology, Zhuhai.
 
 #### Contact
 
-Email: yanzhou[at]bitzh.edu.cn
+Email: yanzhou@bitzh.edu.cn
 
 #### Research Fields
 

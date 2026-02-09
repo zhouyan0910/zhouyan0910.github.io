@@ -1,13 +1,19 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Third Prize of the Science and Technology Award of Tibet Autonomous Region (2018)
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Outstanding Thesis Supervisor in Higher Education Institutions of Tibet Autonomous Region (2016)
 
 - First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- National Outstanding Volunteer of the "College Student Volunteer Service West Program"
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- University-Level Outstanding Graduation Project Supervisor (2016, 2018, 2019, 2020, 2025)
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Supervised students to win the National Third Prize and Provincial First Prize in the Blue Bridge Cup Competition (2021)
 
+- Supervised students to win the Provincial Third Prize in the Blue Bridge Cup Competition (2020)
+
+- Supervised students to win the Gold Prize in the "Challenge Cup" Competition of Guangdong Province (2022)
+
+Supervised students to win the Third Prize in the Guangdong Provincial Computer
+* Design Competition (2024)
