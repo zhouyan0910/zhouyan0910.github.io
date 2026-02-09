@@ -1,17 +1,26 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![zhouyan0910](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/zhouyan0910)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently an Assistant Professor and Master's Supervisor of Frontier Interdisciplinary Domain at Beijing Institute of Technology, Zhuhai.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yanzhou[at]bitzh.edu.cn
+
+#### Research Fields
+
+Computer Audition, Affective Computing, Embedded Systems, etc
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Ph.D.: Computer Science and Technology, Beijing Institute of Technology, Zhuhai.\
+M.E.: Computer Application Technology, East China Normal University.\
+B.S.: Electronic Information Science and Technology, East China Normal University.
+
+#### Work experience
+
+2018.10 - present, Assistant Professor and Master's Supervisor, Beijing Institute of Technology (Zhuhai).\
+2005.9 - 2018.9, Associate Professor and Master's Supervisor / lecturer / Assistant Lecturer, Tibet University.\
+2004.7 - 2005.8: B.S., Volunteer of the "College Student Volunteer Service West Program", Department of Education of the Tibet Autonomous Region .
 
