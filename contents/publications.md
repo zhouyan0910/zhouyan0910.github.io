@@ -1,8 +1,13 @@
-#### Submitted
+#### Research projects
 
-- ...
+- * 2024.9-2027.9, Research on the Impact of Natural Soundscapes on the Emotional States of School-Aged Children Based on Physiological Signal Monitoring (2024ZDZX2097), Provincial Key Platforms and Major Research Projects of Universities in Guangdong Province, Principal Investigator
+* 2023.7-2026.7, "Chihuashan Scholar" Talent Program Project of Beijing Institute of Technology, Zhuhai, Principal Investigator
+* 2022.09-2024.09, Research on Mangrove Birdsong Recognition Integrating Acoustic and Image Features (2022KTSCX202), Provincial Key Platforms and Major Research Projects of Universities in Guangdong Province, Principal Investigator
+* 2015.4-2016.9, Research on Key Algorithms for Tibetan Speaker Recognition (2015ZR-14-5), Natural Science Foundation of Tibet Autonomous Region, Principal Investigator
+* 2017.12-2020.11, Integration and Application Demonstration of Digital Technologies for Tibetan Document Resources (2017YFB1402200), National Key R\&D Program of China, Key Member
+* 2012.1-2015.12, Research on Key Technologies for Tibetan Speech Synthesis (61165010), National Natural Science Foundation of China, Key Member
 
-#### Published
+#### Publications
 - Li Yaying, <strong>Zhou Yan</strong>*. Research on Tibetan Feature Extraction for Voiceprint Recognition[J]. Tibet Science and Technology. 2016(11):20-23.
 - Zhao Dongcai, <strong>Zhou Yan</strong>*. Natural Language Processing System for Electronic Text Based on Deep Learning[J]. Electronic Technology and Software Engineering. 2018(3):180-180.
 - Zhao Dongcai, <strong>Zhou Yan</strong>. Research on Improvement Technology of Natural Language Processing Based on Word Conjunction[J]. Computer & Network, 2018, 44(9):3.
