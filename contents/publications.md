@@ -1,6 +1,6 @@
 #### Research projects
 
-- * 2024.9-2027.9, Research on the Impact of Natural Soundscapes on the Emotional States of School-Aged Children Based on Physiological Signal Monitoring (2024ZDZX2097), Provincial Key Platforms and Major Research Projects of Universities in Guangdong Province, Principal Investigator
+* 2024.9-2027.9, Research on the Impact of Natural Soundscapes on the Emotional States of School-Aged Children Based on Physiological Signal Monitoring (2024ZDZX2097), Provincial Key Platforms and Major Research Projects of Universities in Guangdong Province, Principal Investigator
 * 2023.7-2026.7, "Chihuashan Scholar" Talent Program Project of Beijing Institute of Technology, Zhuhai, Principal Investigator
 * 2022.09-2024.09, Research on Mangrove Birdsong Recognition Integrating Acoustic and Image Features (2022KTSCX202), Provincial Key Platforms and Major Research Projects of Universities in Guangdong Province, Principal Investigator
 * 2015.4-2016.9, Research on Key Algorithms for Tibetan Speaker Recognition (2015ZR-14-5), Natural Science Foundation of Tibet Autonomous Region, Principal Investigator
