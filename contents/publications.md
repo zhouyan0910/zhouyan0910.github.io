@@ -1,16 +1,23 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- ...
 
 #### Published
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Li Yaying, <strong>Zhou Yan</strong>*. Research on Tibetan Feature Extraction for Voiceprint Recognition[J]. Tibet Science and Technology. 2016(11):20-23.
+- Zhao Dongcai, <strong>Zhou Yan</strong>*. Natural Language Processing System for Electronic Text Based on Deep Learning[J]. Electronic Technology and Software Engineering. 2018(3):180-180.
+- Zhao Dongcai, <strong>Zhou Yan</strong>. Research on Improvement Technology of Natural Language Processing Based on Word Conjunction[J]. Computer & Network, 2018, 44(9):3.
+- <strong>Zhou Yan</strong> Shereb Dorje. Corpus Construction for Tibetan Voiceprint Recognition[J]. Computer Engineering and Science. 2018,40(11):2080-2084.
+- <strong>Yan Zhou</strong>, Dongcai Zhao, Fuzhao wang. A Solution on Tibetan Speech Synthesis Based on HMM[C]. Proceedings of 2018 IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference(IAEAC2018).
+- <strong>Zhou Yan</strong>, Zhao Fangfang. Morse code decoder design based on Altera DE2[J].Electronic Design Engineering,2019,27(06):160-164.
+- Wang Fuzhao, <strong>Zhou Yan</strong>*. Research on Error Detection Method of Tibetan Syllables[J]. Computer Age, 2020(1):5-9.
+- Wang Fuzhao, <strong>Zhou Yan</strong>. Research on Forward Matching Algorithm for Tibetan Word Segmentation[J]. Computer Knowledge and Technology, 2019(9):195-197.
+- Wang Fuzhao, <strong>Zhou Yan</strong>*. Research Progress and Prospect of Tibetan Speech Recognition[J]. Computer Systems Applications, 2020, 029(003):29-38.
+- <strong>Zhou Yan</strong>, Wang Qingjuan, Pang Tong. Research and Implementation of News and Public Opinion Analysis Based on Deep Neural Network[J]. Journal of Taizhou University, 2021, 43(3):13-19.
+- <strong>Zhou Yan</strong>, Wang Qingjuan, Song Chen.Exploration on Teaching Reform of Electronic Circuit Experiment Based on Multi-Dimensional Integration[J]. Teacher, 2022(33): 93-95
+- <strong>Y. Zhou</strong>, Z. Dai, Q. Wang and L. Ren, Research and Design of a Chinese Chatbot with Emotion[C]. 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML), Urumqi, China, 2023, pp. 470-474, doi: 10.1109/PRML59573.2023.10348274.
+- Q. Wang, J. Lin, <strong>Y. Zhou</strong>, H. Luo and R. Zhao, Indoor Fire Detection System Based on Multi-sensor Information Fusion Algorithm[C]. 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML), Urumqi, China, 2023, pp. 637-641.
+- Q. Wang, S. Xiao,<strong>Y. Zhou</strong> and L. Wang, Research on Image Restoration Algorithms Based on Transformer Prediction Networks[C]. 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML), Urumqi, China, 2023, pp. 243-249.
+- Chen Lingfang, <strong>Zhou Yan</strong>*, Wang Qingjuan, Lin Jiahao, Chen Yeheng. Research and Implementation of a Birdsong Recognition System Based on WeChat Mini Program[J]. Modern Computer,2024,30(4):75-82
+- Xi Wang, <strong>Yan Zhou</strong>*, Jifei Wang, Qingjuan Wang*,Zichao Xu,Shan Huang.  A Multi-Means Speech Encryption Algorithm Based on Improved Zigzag Transformation[C]. 2024 IEEE 6th Advanced Information Management, Communicates, Electronic and Automation Control Conference(IMCEC), Chongqing, China, 2024.
+- Chen Yang, <strong>Zhou Yan</strong>*, Wang Qingjuan, Chen Wenhan, Luo Huibin, Chen Yeheng. Birdsong Recognition Algorithm Integrating Audio and Image Processing Techniques[J]. Modern Computer,2024, 30(21):38-42+48
+- Chen Wenhan, <strong>Zhou Yan</strong>*, Wang Yubo, Zhang Xinyuan and Wang Jingyi. Mangrove Birdsong Classification with Unbalanced Data[C]. 2nd International Conference on Artificial Intelligence and Human-Computer Interaction, ArtInHCI 2024, pp. 260-272. IOS Press BV, 2025.
