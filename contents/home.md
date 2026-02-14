@@ -1,6 +1,6 @@
 
 
-She is currently an Assistant Professor and Master's Supervisor of Frontier Interdisciplinary Domain at Beijing Institute of Technology, Zhuhai.
+I am currently an Assistant Professor and Master's Supervisor of Frontier Interdisciplinary Domain at Beijing Institute of Technology, Zhuhai. Our team: \[BHE@BIT\](https://bhelaborg.wpcomstaging.com/)
 
 #### Contact
 
